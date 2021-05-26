@@ -1,86 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flair of Machine Learning</title>
-    <description>A virtual proof that name is awesome!</description>
-    <link>http://localhost:4000</link>
+    <title>Prakhar Saxena</title>
+    <description>Let me introduce you to my geek side!</description>
+    <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Numba series part 2: Custom data types and parallelization</title>
+        <title>My Journey On Becoming A Google Developer Student Club (DSC) Lead</title>
         <description>
           
-          This is the second part of my little series about the Numba library. This time we will take a look on how we can use custom data types inside of functions we like to get optimized by Numba. Out-of-the-box Numba can handle scalars and n-dimensional Numpy arrays as input. Tuples...
+          Hello, World! I am Anudit Verma, a Computer Science Graduate Student at California State University Long Beach. And today, I am very proud and excited to share my journey on becoming a Google Developer Student Club (DSC) Lead for the year 2020-21. Also, I would like to mention that I...
         </description>
-        <pubDate>Mon, 25 Sep 2017 15:04:00 +0200</pubDate>
-        <link>http://localhost:4000/2017/09/25/numba-series-part-2-custom-data-types-and-parallelization.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/25/numba-series-part-2-custom-data-types-and-parallelization.html</guid>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2020-07-29-my-journey-on-becoming-a-google-dsc-lead/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-07-29-my-journey-on-becoming-a-google-dsc-lead/</guid>
       </item>
     
       <item>
-        <title>Numba series part 1: The @jit decorator and some more Numba basics</title>
+        <title>videojs-overlay-hyperlink</title>
         <description>
           
-          In the first part of the little Numba series I’ve planned we will focus mainly on the @jit decorator. Their exist different decorators in the Numba library and we will talk about them later, but for the start we will concentrate on the @jit one. On our way we will...
+          A simple video.js plugin to display hyperlinks during video playback using overlays. This plugin is built upon popular video.js plugin called videojs-overlay. Static Preview Live Demo: Link Download Click here to download videojs-overlay-hyperlink or git clone it into your production directory. git clone https://github.com/anuditverma/videojs-overlay-hyperlink.git Getting Started First of all, import...
         </description>
-        <pubDate>Thu, 21 Sep 2017 21:41:00 +0200</pubDate>
-        <link>http://localhost:4000/2017/09/21/numba-series-part-1-the-jit-decorator-and-some-more-numba-basics.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/21/numba-series-part-1-the-jit-decorator-and-some-more-numba-basics.html</guid>
+        <pubDate>Fri, 12 Oct 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018-10-12-videojs-overlay-hyperlink/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-10-12-videojs-overlay-hyperlink/</guid>
       </item>
     
       <item>
-        <title>Introduction to the Numba library</title>
+        <title>How to enable VoLTE on Vodafone?</title>
         <description>
           
-          Recently I found myself watching through some of the videos from the SciPy 2017 Conference, when I stumbled over the tutorial Numba - Tell Those C++ Bullies to Get Lost by Gil Forsyth and Lorena Barba. Although I have to say I find the title a bit pathetic, I really...
+          If you are having a VoLTE capable phone and yet you are not able to get VoLTE services on it. Just follow this simple concise guide to activate VoLTE on your device. In February of 2018, Vodafone launched VoLTE services in metropolitans and select cities in India, the enhanced service...
         </description>
-        <pubDate>Tue, 12 Sep 2017 10:48:00 +0200</pubDate>
-        <link>http://localhost:4000/2017/09/12/introduction-to-the-numba-library.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/12/introduction-to-the-numba-library.html</guid>
+        <pubDate>Sun, 10 Jun 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018-06-10-enable-vodafone-volte/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-06-10-enable-vodafone-volte/</guid>
       </item>
     
       <item>
-        <title>Speeding up TensorFlows Input Pipeline</title>
+        <title>12 Most Incredibly Useful (&amp; Essential) MacOS Apps!</title>
         <description>
           
-          When I wrote the last article about the new Dataset API TensorFlow got with the release of version 1.2, it was still only a release candidate and the documentation was pretty bad. There was a good discussion about the new input pipeline on GitHub and in the last comment Derek...
+          Hi! Here is the list of 12 Incredibly Useful macOS Apps that I have curated and you should probably use them for enhancing your macOS experience (or I can say it turns you into a superuser) and they are FREE! Yes, free as in free beer. I have been using...
         </description>
-        <pubDate>Mon, 11 Sep 2017 10:42:00 +0200</pubDate>
-        <link>http://localhost:4000/2017/09/11/speeding-up-tensorflows-input-pipeline.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/11/speeding-up-tensorflows-input-pipeline.html</guid>
+        <pubDate>Sun, 18 Feb 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018-02-18-twelve-most-incredibly-useful-macos-apps/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-02-18-twelve-most-incredibly-useful-macos-apps/</guid>
       </item>
     
       <item>
-        <title>Example of TensorFlows new Input Pipeline</title>
+        <title>How is iOS different from Android, requires only a needful RAM in iPhones compared to Android phones?</title>
         <description>
           
-          Update 11.09.2017 I wrote a new article about a small code change that let's the whole input pipeline run in parallel. So have a look here. Anyway in this article I explain the basic concept of the new Dataset API, so it's still worth reading. During the time I wrote...
+          Just for thought: If you have ever wondered why iPhones running iOS aren’t much RAM extensive or doesn’t require much RAM than most of the Android Flagship phones are using? Why spokespersons at Apple Inc. aren’t boastful about the amount of RAM available to most modern iPhones while showcasing them?...
         </description>
-        <pubDate>Thu, 15 Jun 2017 10:56:00 +0200</pubDate>
-        <link>http://localhost:4000/2017/06/15/example-of-tensorflows-new-input-pipeline.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/15/example-of-tensorflows-new-input-pipeline.html</guid>
+        <pubDate>Sat, 13 Jan 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018-01-13-android-vs-ios-memory-management/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-01-13-android-vs-ios-memory-management/</guid>
       </item>
     
       <item>
-        <title>Finetuning AlexNet with TensorFlow</title>
+        <title>Fix: This location could not be displayed Input/Output error in Ubuntu</title>
         <description>
           
-          Update 15.05.2017 I updated the code of the repository to work with TensorFlows new input pipeline. Read my other blogpost for an explanation of this new feature coming with TensorFlows version &amp;gt;= 1.12rc0. The links below in this article are still pointing to the code explained here in this article....
+          If you are having trouble accessing your Window’s partition from inside Ubuntu because of an error which reads “This location could not be displayed” and input/output error, then follow this simple guide to recover from this error and solve it quickly to get back the access to your partition. First...
         </description>
-        <pubDate>Fri, 24 Feb 2017 10:11:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/02/24/finetuning-alexnet-with-tensorflow.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/02/24/finetuning-alexnet-with-tensorflow.html</guid>
+        <pubDate>Fri, 14 Jul 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017-07-14-fix-location-could-not-be-display-input-output-error-in-ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-07-14-fix-location-could-not-be-display-input-output-error-in-ubuntu/</guid>
       </item>
     
       <item>
-        <title>Understanding the backward pass through Batch Normalization Layer</title>
+        <title>Update your ZenFone 2 Laser (ZE550KL) to VoLTE (Version WW-21.40.1220.2196) &amp; Fix /asdf /recovery Errors without ROOT</title>
         <description>
           
-          At the moment there is a wonderful course running at Standford University, called CS231n - Convolutional Neural Networks for Visual Recognition, held by Andrej Karpathy, Justin Johnson and Fei-Fei Li. Fortunately all the course material is provided for free and all the lectures are recorded and uploaded on Youtube. This...
+          A concise guide for getting VoLTE update on your Zenfone 2 Laser (ZE550KL) to unlock “True 4G” or “Rich Calling” (for Jio) or HD calling capabilities. The hardware of your Zenfone 2 phone is capable of hosting an LTE Cat4 network with the maximum download and upload speed of 100-150...
         </description>
-        <pubDate>Fri, 12 Feb 2016 13:54:00 +0100</pubDate>
-        <link>http://localhost:4000/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html</guid>
+        <pubDate>Fri, 07 Jul 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017-07-07-update-zenfone2-laser-to-volte/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-07-07-update-zenfone2-laser-to-volte/</guid>
+      </item>
+    
+      <item>
+        <title>Make Your Own Wireless Music Streamer with Raspberry Pi</title>
+        <description>
+          
+          Yes! you read it right, make your own wireless music streamer but it’s not a conventional Bluetooth based wireless player we have been using over A2DP to your Bluetooth enabled speakers, it’s even better, with the help of a Raspberry Pi you can make just any speakers with 3.5 mm...
+        </description>
+        <pubDate>Mon, 30 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017-01-30-your-own-wireless-music-streamer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-30-your-own-wireless-music-streamer/</guid>
+      </item>
+    
+      <item>
+        <title>First post!</title>
+        <description>
+          
+          This is my first post, I’m moving from my old blog to GitHub pages now. It has been very exciting since I started developing it, soon I’ll add new posts here as well as some of my older ones too. Watch out this space for more! PS: By the way...
+        </description>
+        <pubDate>Sat, 01 Oct 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2016-10-01-first-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-10-01-first-post/</guid>
+      </item>
+    
+      <item>
+        <title>Light: Particle or Wave?</title>
+        <description>
+          
+          Does light behave like particles or waves? Believe me or not this very question, is the reason which keeps most of the physicists baffled about the strange nature of the particles in the world of quantum mechanics. When I was in school, about an age of 11 or 12, when...
+        </description>
+        <pubDate>Thu, 25 Feb 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2016-02-25-is-light-particle-or-wave/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-02-25-is-light-particle-or-wave/</guid>
+      </item>
+    
+      <item>
+        <title>Are The Random Numbers Really Random?</title>
+        <description>
+          
+          “What baffles me most in the world is the mystical nature of the Universe and its ever-increasing entropy, an infinite amount of information yet to be processed and deciphered, unravelling new ways for us to get a much better understanding of it.” - Anudit Verma When you hear this term...
+        </description>
+        <pubDate>Tue, 22 Dec 2015 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2015-12-22-are-the-random-numbers-really-random/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-12-22-are-the-random-numbers-really-random/</guid>
+      </item>
+    
+      <item>
+        <title>Here Is The World's First Webpage!</title>
+        <description>
+          
+          We have come a long way in terms of technology, our lives have never been so connected to the Internet, everything we do or visit leaves a digital footprint in some way or the other. In this post, I am going to take you on the journey into a different...
+        </description>
+        <pubDate>Sat, 14 Nov 2015 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2015-11-14-worlds-first-webpage/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-11-14-worlds-first-webpage/</guid>
+      </item>
+    
+      <item>
+        <title>Why I'm unable to access my Windows' drives in Ubuntu?</title>
+        <description>
+          
+          The scenario: You have just installed a freshly brewed Linux image alongside with your Windows OS, everything works fine but then you realise you are not able to mount/access your Windows’ partitions. So why is this happening? If you have Windows 8 or later version then you might face this...
+        </description>
+        <pubDate>Thu, 10 Sep 2015 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2015-09-10-can't-access-windows-files-in-ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-09-10-can't-access-windows-files-in-ubuntu/</guid>
+      </item>
+    
+      <item>
+        <title>This Is For Your Incredible Quest of Space Exploration And Beyond</title>
+        <description>
+          
+          “The important thing is to not stop questioning. Curiosity has its own reason for existence. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvellous structure of reality. It is enough if one tries merely to comprehend a little of this...
+        </description>
+        <pubDate>Sun, 06 Sep 2015 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2015-09-06-this-is-your-quest-for-space-exploration/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-09-06-this-is-your-quest-for-space-exploration/</guid>
+      </item>
+    
+      <item>
+        <title>Implementing Open Supporter Data Interface (OSDI) API for CiviCRM Part II - Concluding Post</title>
+        <description>
+          
+          Looking back at the ‘Overview’ The OSDI API implementation is in line with CiviCRM’s mission to be an open platform for organizations of all sizes. Creating the implementation will allow them to use the OSDI API easily. The existence of a common API will reduce progressive data vendors’ customer costs...
+        </description>
+        <pubDate>Thu, 27 Aug 2015 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2015-08-27-gsoc-part2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-08-27-gsoc-part2/</guid>
+      </item>
+    
+      <item>
+        <title>Implementing Open Supporter Data Interface (OSDI) API for CiviCRM Part I - Beginning</title>
+        <description>
+          
+          I worked on the Open Supporter Data Interface (OSDI) API implementation into CiviCRM project as a 2015 Google Summer of Code student. OSDI is a way for progressive US-based organizations which do community, labour and political organizing, use CiviCRM and are customers of various progressive data vendors to “sync up...
+        </description>
+        <pubDate>Sun, 19 Jul 2015 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2015-07-19-gsoc-part1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-07-19-gsoc-part1/</guid>
       </item>
     
   </channel>
