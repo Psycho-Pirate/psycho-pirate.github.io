@@ -2,8 +2,8 @@
 layout: post
 title: My Journey On Becoming A Google Developer Student Club (DSC) Lead
 tags: [Google, Developer Student Club, DSC]
-image: https://www.anudit.in/assets/img/dsc_lead/dsc_logo.png
-share-img: https://www.anudit.in/assets/img/dsc_lead/dsc_logo.png
+image: https://psycho-pirate.github.io/assets/img/dsc_lead/dsc_logo.png
+share-img: https://psycho-pirate.github.io/img/dsc_lead/dsc_logo.png
 ---
 
 Hello, World! I am Anudit Verma, a Computer Science Graduate Student at California State University Long Beach. And today, I am very proud and excited to share my journey on becoming a Google Developer Student Club (DSC) Lead for the year 2020-21.

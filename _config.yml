@@ -4,7 +4,7 @@
 title: Prakhar Saxena
 
 # Short description of your site
-description: Let me introduce you to my geek side!
+#description: Let me introduce you to my geek side!
 
 # Your name to show in the footer
 author: Prakhar Saxena
@@ -61,17 +61,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-# email: "someone@example.com"
-  facebook: anuditverma
-  github: anuditverma
-  twitter: anuditverma
+  email: "prakharsaxena.civ18@iitbhu.ac.in"
+  #facebook: anuditverma
+  github: psycho-pirate
+  #twitter: anuditverma
 # reddit: yourname
-  linkedin: anuditverma
+  linkedin: prakhar-saxena-a63213134
 # xing: yourname
 # stackoverflow: 4590331/anudit-verma
 # snapchat: yourname
-  instagram: anuditverma
-  rss: false
+  instagram: prakhar__01
+  rss: true
 # youtube: user/yourname
 # spotify: yourname
 # telephone: +1-(000)-000-0000
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "anudit.in"
+#url-pretty: "anudit.in"
 
 # --- Web Statistics Section --- #
 
@@ -106,7 +106,7 @@ google_analytics: "G-L0H5Q2X7TT"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
+disqus: "psycho-pirate"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
