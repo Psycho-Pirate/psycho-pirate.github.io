@@ -108,7 +108,7 @@ google_analytics: "G-L0H5Q2X7TT"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "psycho-pirate"
+#disqus: "psycho-pirate"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
