@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>GSoC Week 4 and 5: Phase-2 Begins!</title>
+        <description>
+          
+          During the 4th week, I made some changes to the last PR of phase-1 and it got merged successfully. The rest of the week was spent researching on the topics of Phase-2. This involved going through some books and reading through research papers. Phase-2: Influence Line Diagrams In phase-2, I...
+        </description>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2021-07-11-GSoCw4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-07-11-GSoCw4/</guid>
+      </item>
+    
+      <item>
         <title>GSoC Week 3: Phase-1 over!</title>
         <description>
           
