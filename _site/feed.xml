@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>GSoC Week 9: Phase 2 continues!</title>
+        <description>
+          
+          During this week, I implemented the solve_for_ild_shear() function. This function uses the solve_for_ild_reactions() function and calculates the I.L.D. equations for shear at a point specified by the user. The derived equations can then be plotted using the plot_ild_shear() function. solve_for_ild_shear() This function calculates the shear equations in terms of ‘x’....
+        </description>
+        <pubDate>Mon, 26 Jul 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2021-07-26-GSoCw9/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-07-26-GSoCw9/</guid>
+      </item>
+    
+      <item>
         <title>GSoC Week 7 and 8: Back to Phase-2!</title>
         <description>
           
