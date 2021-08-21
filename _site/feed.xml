@@ -7,14 +7,25 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>GSoC Week 10: Phase 3 begins!</title>
+        <description>
+          
+          During this week, I implemented the last part of Phase-2. These included solve_for_ild_moment() and plot_ild_moment() functions. The solve_for_ild_moment() function uses the solve_for_ild_reactions() function and calculates the I.L.D. equations for moment at a point specified by the user. The derived equations can then be plotted using the plot_ild_moment() function. solve_for_ild_moment() This...
+        </description>
+        <pubDate>Sun, 15 Aug 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2021-08-15-GSoCw10/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-08-15-GSoCw10/</guid>
+      </item>
+    
+      <item>
         <title>GSoC Week 9: Phase 2 continues!</title>
         <description>
           
           During this week, I implemented the solve_for_ild_shear() function. This function uses the solve_for_ild_reactions() function and calculates the I.L.D. equations for shear at a point specified by the user. The derived equations can then be plotted using the plot_ild_shear() function. solve_for_ild_shear() This function calculates the shear equations in terms of ‘x’....
         </description>
-        <pubDate>Mon, 26 Jul 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2021-07-26-GSoCw9/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021-07-26-GSoCw9/</guid>
+        <pubDate>Sun, 08 Aug 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2021-08-08-GSoCw9/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-08-08-GSoCw9/</guid>
       </item>
     
       <item>
@@ -23,9 +34,9 @@
           
           These two weeks were spent on imploving the solve_for_ild_reactions() function and resolving the backwards incompatibility caused by the existing functions. After finding a decent solution, the functions were implemented and successfully merged. solve_for_ild_reactions() This function solves the reaction equations in terms of ‘x’. Here ‘x’ represents the distance of the...
         </description>
-        <pubDate>Sun, 18 Jul 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2021-07-18-GSoCw7n8/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021-07-18-GSoCw7n8/</guid>
+        <pubDate>Sun, 01 Aug 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2021-08-01-GSoCw7n8/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-08-01-GSoCw7n8/</guid>
       </item>
     
       <item>
