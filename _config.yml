@@ -29,7 +29,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   Projects:
-    - GSoC'21: "https://github.com/Psycho-Pirate/sympy"
+    - GSoC'21: "https://github.com/sympy/sympy/wiki/GSoC-2021-Report-Prakhar-Saxena-:-Creating-a-Rich-Beam-Solver-and-Extending-Continuum-Mechanics-Module"
     - Ammu-Nation: "https://github.com/Psycho-Pirate/Ammu-Nation"
     - Sudoku Solver: "https://github.com/Psycho-Pirate/Sudoku-Solver"
   About Me: "aboutme"
