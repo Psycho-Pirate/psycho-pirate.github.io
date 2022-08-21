@@ -7,7 +7,29 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Summer of Bitcoin 2021</title>
+        <title>How to start contributing to LDK</title>
+        <description>
+          
+          In this blog, I will talk about my experience in contributing to LDK and how a beginner contributer can get started. LightningDevKit Lightning Development Kit is a library that allows you to build a lightning node without worrying about implementing low-level lightning logic correctly. LDK is based on Rust-Lightning, a...
+        </description>
+        <pubDate>Sun, 21 Aug 2022 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2022-08-21-ldkcont/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-08-21-ldkcont/</guid>
+      </item>
+    
+      <item>
+        <title>Summer of Bitcoin'22 Progress</title>
+        <description>
+          
+          In this blog, I will talk about the work I have done till now on my Summer of Bitcoin project. My project focuses on integrating LDK which is lightning network implementation with the Lnprototest test suite. Lnprototest Lnprototest is a set of test helpers written in Python3, designed to make...
+        </description>
+        <pubDate>Mon, 04 Jul 2022 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2022-07-04-sob2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-07-04-sob2/</guid>
+      </item>
+    
+      <item>
+        <title>Summer of Bitcoin 2022</title>
         <description>
           
           The results of Summer of Bitcoin were declared the previous week and I am really excited to announce that my proposal was accepted by LDK. What is Summer of Bitcoin? Summer of Bitcoin is an open source program similar to Google Summer of Code. This program focuses on introducing students...
