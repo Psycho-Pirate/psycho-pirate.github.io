@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Summer of Bitcoin'22 Project Report</title>
+        <description>
+          
+          This blog will serve as a project report for my Summer of Bitcoin project with LDK. My project focuses on integrating LDK which is lightning network implementation with the Lnprototest test suite. Lnprototest Lnprototest is a set of test helpers written in Python3, designed to make it easy to write...
+        </description>
+        <pubDate>Mon, 22 Aug 2022 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2022-08-22-sob3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-08-22-sob3/</guid>
+      </item>
+    
+      <item>
         <title>How to start contributing to LDK</title>
         <description>
           
