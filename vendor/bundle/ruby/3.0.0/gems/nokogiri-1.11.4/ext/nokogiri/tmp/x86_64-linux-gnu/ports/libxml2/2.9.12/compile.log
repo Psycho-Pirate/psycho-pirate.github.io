@@ -1,0 +1,54 @@
+make  all-recursive
+make[1]: Entering directory '/home/psychopirate/Documents/gsoc blog/psycho-pirate.github.io/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.4/ext/nokogiri/tmp/x86_64-linux-gnu/ports/libxml2/2.9.12/libxml2-2.9.12'
+Making all in include
+make[2]: Entering directory '/home/psychopirate/Documents/gsoc blog/psycho-pirate.github.io/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.4/ext/nokogiri/tmp/x86_64-linux-gnu/ports/libxml2/2.9.12/libxml2-2.9.12/include'
+Making all in libxml
+make[3]: Entering directory '/home/psychopirate/Documents/gsoc blog/psycho-pirate.github.io/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.4/ext/nokogiri/tmp/x86_64-linux-gnu/ports/libxml2/2.9.12/libxml2-2.9.12/include/libxml'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/psychopirate/Documents/gsoc blog/psycho-pirate.github.io/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.4/ext/nokogiri/tmp/x86_64-linux-gnu/ports/libxml2/2.9.12/libxml2-2.9.12/include/libxml'
+make[3]: Entering directory '/home/psychopirate/Documents/gsoc blog/psycho-pirate.github.io/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.4/ext/nokogiri/tmp/x86_64-linux-gnu/ports/libxml2/2.9.12/libxml2-2.9.12/include'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/home/psychopirate/Documents/gsoc blog/psycho-pirate.github.io/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.4/ext/nokogiri/tmp/x86_64-linux-gnu/ports/libxml2/2.9.12/libxml2-2.9.12/include'
+make[2]: Leaving directory '/home/psychopirate/Documents/gsoc blog/psycho-pirate.github.io/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.4/ext/nokogiri/tmp/x86_64-linux-gnu/ports/libxml2/2.9.12/libxml2-2.9.12/include'
+Making all in .
+make[2]: Entering directory '/home/psychopirate/Documents/gsoc blog/psycho-pirate.github.io/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.11.4/ext/nokogiri/tmp/x86_64-linux-gnu/ports/libxml2/2.9.12/libxml2-2.9.12'
+  CC       xmllint.o
+  CC       SAX.lo
+  CC       entities.lo
+entities.c: In function ‘xmlEncodeEntitiesInternal’:
+entities.c:599:68: warning: unused parameter ‘attr’ [-Wunused-parameter]
+  599 | xmlEncodeEntitiesInternal(xmlDocPtr doc, const xmlChar *input, int attr) {
+      |                                                                ~~~~^~~~
+  CC       encoding.lo
+  CC       error.lo
+  CC       parserInternals.lo
+  CC       parser.lo
+  CC       tree.lo
+tree.c: In function ‘xmlDOMWrapCloneNode’:
+tree.c:9550:26: warning: array subscript ‘xmlNode {aka struct _xmlNode}[0]’ is partly outside array bounds of ‘unsigned char[96]’ [-Warray-bounds]
+ 9550 |                     clone->parent = parentClone;
+      |                          ^~
+tree.c:9539:38: note: referencing an object of size 96 allocated by ‘void *(size_t)’ {aka ‘void *(long unsigned int)’}
+ 9539 |                 clone = (xmlNodePtr) xmlMalloc(sizeof(xmlAttr));
+      |                                      ^~~~~~~~~~~~~~~~~~~~~~~~~~
+tree.c:9553:30: warning: array subscript ‘xmlNode {aka struct _xmlNode}[0]’ is partly outside array bounds of ‘unsigned char[96]’ [-Warray-bounds]
+ 9553 |                         clone->prev = prevClone;
+      |                              ^~
+tree.c:9539:38: note: referencing an object of size 96 allocated by ‘void *(size_t)’ {aka ‘void *(long unsigned int)’}
+ 9539 |                 clone = (xmlNodePtr) xmlMalloc(sizeof(xmlAttr));
+      |                                      ^~~~~~~~~~~~~~~~~~~~~~~~~~
+  CC       hash.lo
+  CC       list.lo
+  CC       xmlIO.lo
+  CC       xmlmemory.lo
+  CC       uri.lo
+  CC       valid.lo
+  CC       xlink.lo
+  CC       HTMLparser.lo
+  CC       HTMLtree.lo
+  CC       debugXML.lo
+  CC       xpath.lo
+  CC       xpointer.lo
+  CC       xinclude.lo
+  CC       nanohttp.lo
+  CC       nanoftp.lo
