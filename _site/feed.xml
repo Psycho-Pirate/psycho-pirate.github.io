@@ -7,6 +7,72 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Summer of Bitcoin 2023 Blog 3</title>
+        <description>
+          
+          Week 5 and 6 During these weeks, I started working on the remaining BOLT2. These included: test_bolt2-02-reestablish.py test_bolt2-10-add-htlc.py test_bolt2-20-open_channel_accepter.py test_bolt2-30-channel_type-open-accept-tlvs.py Out of these tests, the test_bolt2-20-open_channel_accepter.py is a bit flaky in CI and is marked to be skipped in pytest. The test_bolt2-30-channel_type-open-accept-tlvs.py is working with C-Lightning but needs to be...
+        </description>
+        <pubDate>Tue, 15 Aug 2023 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2023-08-15-sob9/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-08-15-sob9/</guid>
+      </item>
+    
+      <item>
+        <title>Summer of Bitcoin 2023 Blog 5</title>
+        <description>
+          
+          Week 9 and 10 Almost all the BOLT tests had passed except test_bolt2-30-channel_type-open-accept-tlvs.py. In the LDK logs, I received the following error Deserialization failed due to shortness of message. Even after carefully going through my LDK-Sample code and Lnprototest script, I was not able to determine what was causing this...
+        </description>
+        <pubDate>Mon, 31 Jul 2023 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2023-07-31-sob8/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-07-31-sob8/</guid>
+      </item>
+    
+      <item>
+        <title>Summer of Bitcoin 2023 Blog 4</title>
+        <description>
+          
+          Week 7 and 8 During these weeks, all the BOLT2 tests passed except test_bolt2-30-channel_type-open-accept-tlvs. I also started working on the BOLT7 tests. These included: test_bolt7-01-channel_announcement-success.py test_bolt7-02-channel_announcement-failure.py test_bolt7-10-gossip-filter.py test_bolt7-20-query_channel_range.py Out of these tests, the test_bolt7-10-gossip-filter.py and test_bolt7-20-query_channel_range.py require option_gossip_queries which LDK does not support. Hence these tests are skipped. All these...
+        </description>
+        <pubDate>Fri, 14 Jul 2023 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2023-07-14-sob7/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-07-14-sob7/</guid>
+      </item>
+    
+      <item>
+        <title>Summer of Bitcoin 2023 Blog 3</title>
+        <description>
+          
+          Week 5 and 6 During these weeks, I started working on the remaining BOLT2. These included: test_bolt2-02-reestablish.py test_bolt2-10-add-htlc.py test_bolt2-20-open_channel_accepter.py test_bolt2-30-channel_type-open-accept-tlvs.py Out of these tests, the test_bolt2-20-open_channel_accepter.py is a bit flaky in CI and is marked to be skipped in pytest. The test_bolt2-30-channel_type-open-accept-tlvs.py is working with C-Lightning but needs to be...
+        </description>
+        <pubDate>Fri, 30 Jun 2023 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2023-06-30-sob6/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-06-30-sob6/</guid>
+      </item>
+    
+      <item>
+        <title>Summer of Bitcoin 2023 Blog 2</title>
+        <description>
+          
+          Week 3 and 4 During these weeks, I started working on the BOLT2 tests. These included: test_bolt2-01-close_channel.py test_bolt2-01-open_channel.py test_bolt2-02-reestablish.py test_bolt2-10-add-htlc.py test_bolt2-20-open_channel_accepter.py test_bolt2-30-channel_type-open-accept-tlvs.py I tried running the open_channel and close_channel tests. They were failing for a variety of reasons. I added fundchannel, _fundchannel, _done methods in the LDK script which can...
+        </description>
+        <pubDate>Wed, 14 Jun 2023 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2023-06-14-sob5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-06-14-sob5/</guid>
+      </item>
+    
+      <item>
+        <title>Summer of Bitcoin 2023 Blog 1</title>
+        <description>
+          
+          The results of Summer of Bitcoin were declared the previous week and I am really excited to announce that my proposal was accepted by LDK. I will be continuing the project which I started last year titled Integrating LDK into the Lnprototest test suite About the Project This project aims...
+        </description>
+        <pubDate>Wed, 31 May 2023 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2023-05-31-sob4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-05-31-sob4/</guid>
+      </item>
+    
+      <item>
         <title>Summer of Bitcoin'22 Project Report</title>
         <description>
           
