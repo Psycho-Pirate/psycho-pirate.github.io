@@ -7,10 +7,10 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Summer of Bitcoin 2023 Blog 3</title>
+        <title>Summer of Bitcoin 2023 Project Report</title>
         <description>
           
-          Week 5 and 6 During these weeks, I started working on the remaining BOLT2. These included: test_bolt2-02-reestablish.py test_bolt2-10-add-htlc.py test_bolt2-20-open_channel_accepter.py test_bolt2-30-channel_type-open-accept-tlvs.py Out of these tests, the test_bolt2-20-open_channel_accepter.py is a bit flaky in CI and is marked to be skipped in pytest. The test_bolt2-30-channel_type-open-accept-tlvs.py is working with C-Lightning but needs to be...
+          Week 11 and 12 During these weeks, I wrote a docker script for running these tests as part of Continuous Integration. This allowed the tests to be run as a Github Action after every push. This can be found here. Project Report Lnprototest Lnprototest is a set of test helpers...
         </description>
         <pubDate>Tue, 15 Aug 2023 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/2023-08-15-sob9/</link>
